@@ -12,7 +12,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://discord.gg/f2Vy5SpdB2">
-    <img src="https://img.shields.io/discord/308323056592486420.svg" alt="Discord"/>
+    <img src="https://img.shields.io/discord/1186181691874746438.svg" alt="Discord"/>
   </a>
   <a href="https://choosealicense.com/licenses/isc/">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
