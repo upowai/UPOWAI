@@ -11,15 +11,20 @@
 
 <!-- Badges -->
 <p align="center">
-  
-  ![Discord](https://img.shields.io/discord/1186181691874746438?label=Discord&logo=discord&style=flat-square)
-  ![License](https://img.shields.io/github/license/upowai/upowai?style=flat-square)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/UpowAi?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/upowai/upowai?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/upowai/upowai?style=social)
-  ![GitHub issues](https://img.shields.io/github/issues/upowai/upowai?style=flat-square)
-  ![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fupow.ai)
+  <a href="https://discord.gg/f2Vy5SpdB2">
+    <img src="https://img.shields.io/discord/308323056592486420.svg" alt="Discord"/>
+  </a>
+  <a href="https://choosealicense.com/licenses/isc/">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
+  </a>
+  <a href="https://twitter.com/UpowAi">
+    <img src="https://img.shields.io/twitter/follow/UpowAi?style=social" alt="Twitter Follow"/>
+  </a>
+  <a href="https://upow.ai">
+    <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fupow.ai" alt="Website"/>
+  </a>
 </p>
+
 
 Upow (Useful Power of Work) represents a groundbreaking initiative in the blockchain space. Our mission is to address real-world challenges by harmonizing blockchain technology with artificial intelligence, machine learning, and data training. We're redefining the blockchain landscape, focusing on practical, impactful solutions.
 
