@@ -53,7 +53,7 @@ Interested in contributing to the Upow project? We're always on the lookout for 
 ## Stay Updated 📢
 
 - **Website:** [upow.ai](https://upow.ai)
-- **Twitter:** [@UpowAi](https://twitter.com/Upowai)
+- **Twitter:** [@UpowAi](https://twitter.com/Upow_ai)
 
 
 ---
