@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fupow.ai" alt="uPow.ai"/>
   </a>
     <a href="https://explorer.upow.ai">
-    <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fupow.ai" alt="explorer.uPow.ai"/>
+    <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fexplorer.upow.ai" alt="explorer.uPow.ai"/>
   </a>
 </p>
 
