@@ -17,8 +17,8 @@
   <a href="https://choosealicense.com/licenses/isc/">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   </a>
-  <a href="https://twitter.com/UpowAi">
-    <img src="https://img.shields.io/twitter/follow/UpowAi?style=social" alt="Twitter Follow"/>
+  <a href="https://twitter.com/Upow_Ai">
+    <img src="https://img.shields.io/twitter/follow/Upow_Ai?style=social" alt="Twitter Follow"/>
   </a>
 <a href="https://upow.ai">
   <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&label=uPow.ai&url=https%3A%2F%2Fupow.ai" alt="uPow.ai"/>
