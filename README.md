@@ -22,10 +22,10 @@
   </a>
   <a href="https://upow.ai">
     <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fupow.ai" alt="uPow.ai"/>
-  </a>
-    <a href="https://explorer.upow.ai">
-    <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fexplorer.upow.ai" alt="explorer.uPow.ai"/>
-  </a>
+ <a href="https://explorer.upow.ai">
+  <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&label=uPow%20Explorer&url=https%3A%2F%2Fexplorer.upow.ai" alt="uPow Explorer"/>
+</a>
+
 </p>
 
 
