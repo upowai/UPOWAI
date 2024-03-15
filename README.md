@@ -38,7 +38,7 @@ Upow (Useful Power of Work) represents a groundbreaking initiative in the blockc
 
 Upow isn't just another blockchain; it's a vision for a more utilitarian and efficient use of computational resources. Here's what makes Upow unique:
 
-- **Total Supply:** 19 million Upow tokens.
+- **Total Supply:** 18.89 million Upow tokens.
 - **Block Time:** 60 seconds for consistent, fast transactions.
 - **Block Reward:** 6 Upow tokens, decreasing by half every 3 years.
 - **Block Algorithm:** Nakamoto consensus (SHA256).
