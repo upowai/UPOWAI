@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Upow Blockchain Project</h1>
+<h1 align="center">🌐 uPow Blockchain</h1>
 <p align="center">
   <strong>Useful Power of Work: Integrating Blockchain with AI and Machine Learning</strong>
 </p>
@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/upowai/upowai/main/logocompressed.png" alt="Upow Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/upowai/upowai/main/logocompressed.png" alt="uPow Logo" width="400"/>
 </p>
 
 <!-- Badges -->
@@ -17,7 +17,7 @@
   <a href="https://choosealicense.com/licenses/isc/">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   </a>
-  <a href="https://twitter.com/Upow_Ai">
+  <a href="https://twitter.com/uPow_Ai">
     <img src="https://img.shields.io/twitter/follow/Upow_Ai?style=social" alt="Twitter Follow"/>
   </a>
 <a href="https://upow.ai">
@@ -30,9 +30,9 @@
 </p>
 
 
-Upow (Useful Power of Work) represents a groundbreaking initiative in the blockchain space. Our mission is to address real-world challenges by harmonizing blockchain technology with artificial intelligence, machine learning, and data training. We're redefining the blockchain landscape, focusing on practical, impactful solutions.
+uPow (Useful Power of Work) represents a groundbreaking initiative in the blockchain space. Our mission is to address real-world challenges by harmonizing blockchain technology with artificial intelligence, machine learning, and data training. We're redefining the blockchain landscape, focusing on practical, impactful solutions.
 
-**Why Upow?** 🚀
+**Why uPow?** 🚀
 
 - **Innovative Integration:** Merging blockchain with AI and machine learning for real-world problem solving.
 - **Revolutionized Nakamoto Consensus:** Enhancing traditional blockchain validation with data training and AI-driven tasks.
@@ -40,29 +40,29 @@ Upow (Useful Power of Work) represents a groundbreaking initiative in the blockc
 
 ## Technical Specifications 🛠️
 
-Upow isn't just another blockchain; it's a vision for a more utilitarian and efficient use of computational resources. Here's what makes Upow unique:
+uPow isn't just another blockchain; it's a vision for a more utilitarian and efficient use of computational resources. Here's what makes uPow unique:
 
-- **Total Supply:** 18.89 million Upow tokens.
+- **Total Supply:** 18.88 million uPow tokens.
 - **Block Time:** 60 seconds for consistent, fast transactions.
-- **Block Reward:** 6 Upow tokens, decreasing by half every 3 years.
+- **Block Reward:** 6 uPow tokens, decreasing by half every 3 years.
 - **Block Algorithm:** Nakamoto consensus (SHA256).
-- **Consensus Mechanism:** 100% Useful Proof of Work (Upow).
+- **Consensus Mechanism:** 100% Useful Proof of Work (uPow).
 
 ## Contributing 💡
 
-Interested in contributing to the Upow project? We're always on the lookout for innovative minds!
+Interested in contributing to the uPow project? We're always on the lookout for innovative minds!
 - **Community:** Join our [Discord](https://discord.gg/f2Vy5SpdB2) or [Telegram](https://t.me/upowcoin) for updates and discussions.
-- **Investors:** Interested in supporting Upow? Reach out to us at [Discord](https://discord.gg/f2Vy5SpdB2).
+- **Investors:** Interested in supporting uPow? Reach out to us at [Discord](https://discord.gg/f2Vy5SpdB2).
 
 ## Stay Updated 📢
 
-- **Website:** [upow.ai](https://upow.ai)
-- **Twitter:** [@UpowAi](https://twitter.com/Upow_ai)
+- **Website:** [uPow.ai](https://upow.ai)
+- **Twitter:** [@uPow_ai](https://twitter.com/Upow_ai)
 
 
 ---
 
 <p align="center">
-  <strong>Upow Blockchain - Powering the Future with Useful Work</strong>
+  <strong>uPow Blockchain - Powering the Future with Useful Work</strong>
 </p>
 
